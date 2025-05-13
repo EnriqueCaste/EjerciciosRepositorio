@@ -3,7 +3,6 @@
  * - Si le pasamos "Hola mundo" nos retornaría "odnum aloH"
  */
 
-
 function invertirTexto(texto){
 const textoInvertido = texto.split('').reverse().join('')
 console.log(textoInvertido)
